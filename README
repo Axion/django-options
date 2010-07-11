@@ -1,0 +1,9 @@
+Setup
+- add options to python path
+
+- add 'options' to INSTALLED_APPS
+
+- add 'options.context_processors.options' to TEMPLATE_CONTEXT_PROCESSORS
+
+- run 'python manage.py syncdb'
+
